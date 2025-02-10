@@ -46,4 +46,4 @@ Tópicos frequentes ligados à tecnologia sugerem um ambiente profissional/estud
 Diferença no tamanho das mensagens pode refletir diferentes estilos de comunicação (saudações curtas vs. instruções mais detalhadas).
 Predomínio de mensagens de um único usuário pode indicar baixa participação no grupo.
 Atividade concentrada na sexta-feira sugere que o grupo tem uma interação semanal e pode necessitar de acompanhamento em outros dias.
-Esse tipo de análise pode ser aprimorado com mais dados ao longo do tempo, permitindo uma visão mais robusta do comportamento dos participantes. 🚀
+Esse tipo de análise pode ser aprimorado com mais dados ao longo do tempo, permitindo uma visão mais robusta do comportamento dos participantes.
